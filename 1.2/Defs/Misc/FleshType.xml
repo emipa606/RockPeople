@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FleshTypeDef>
+    <defName>rockFlesh</defName>
+    <corpseCategory>CorpsesAnimal</corpseCategory>
+    <wounds>
+      <li>
+        <texture>Pawn/Wounds/WoundRockA</texture>
+      </li>
+      <li>
+        <texture>Pawn/Wounds/WoundRockB</texture>
+      </li>
+      <li>
+        <texture>Pawn/Wounds/WoundRockC</texture>
+      </li>
+    </wounds>
+  </FleshTypeDef>
+</Defs>

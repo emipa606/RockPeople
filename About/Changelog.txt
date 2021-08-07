@@ -1,0 +1,4 @@
+# Changelog for RockPeople
+
+1.0.0.0 - First publish
+

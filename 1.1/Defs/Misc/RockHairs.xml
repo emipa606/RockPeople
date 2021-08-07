@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HairDef>
+    <defName>Marble_Braidbun</defName>
+    <label>braid bun</label>
+    <hairGender>Male</hairGender>
+    <texPath>Pawn/Humanlike/Hairs/Braidbun</texPath>
+    <hairTags>
+      <li>RockHair</li>
+    </hairTags>
+  </HairDef>
+  <HairDef>
+    <defName>Marble_Curly</defName>
+    <label>curly</label>
+    <hairGender>Female</hairGender>
+    <texPath>Pawn/Humanlike/Hairs/Curly</texPath>
+    <hairTags>
+      <li>RockHair</li>
+    </hairTags>
+  </HairDef>
+  <HairDef>
+    <defName>Marble_Mess</defName>
+    <label>mess</label>
+    <hairGender>Male</hairGender>
+    <texPath>Pawn/Humanlike/Hairs/Mess</texPath>
+    <hairTags>
+      <li>RockHair</li>
+    </hairTags>
+  </HairDef>
+  <HairDef>
+    <defName>Marble_Senorita</defName>
+    <label>senorita braid</label>
+    <hairGender>Female</hairGender>
+    <texPath>Pawn/Humanlike/Hairs/Senorita</texPath>
+    <hairTags>
+      <li>RockHair</li>
+    </hairTags>
+  </HairDef>
+  <HairDef>
+    <defName>Marble_Princess</defName>
+    <label>princess braid</label>
+    <hairGender>Female</hairGender>
+    <texPath>Pawn/Humanlike/Hairs/Princess</texPath>
+    <hairTags>
+      <li>RockHair</li>
+    </hairTags>
+  </HairDef>
+  <HairDef>
+    <defName>Marble_Wavy</defName>
+    <label>wavy hair</label>
+    <hairGender>Any</hairGender>
+    <texPath>Pawn/Humanlike/Hairs/Wavy</texPath>
+    <hairTags>
+      <li>RockHair</li>
+    </hairTags>
+  </HairDef>
+</Defs>

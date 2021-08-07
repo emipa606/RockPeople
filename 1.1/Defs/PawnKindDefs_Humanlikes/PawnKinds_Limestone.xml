@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <PawnKindDef ParentName="TribalBase">
+    <defName>R_LimestoneMelee</defName>
+    <label>citizen warrior</label>
+    <race>Alien_Rock_Limestone</race>
+    <backstoryCategories>
+      <li>Tribal</li>
+    </backstoryCategories>
+    <canBeSapper>true</canBeSapper>
+    <combatPower>40</combatPower>
+    <maxGenerationAge>50</maxGenerationAge>
+    <gearHealthRange>
+      <min>0.5</min>
+      <max>1.8</max>
+    </gearHealthRange>
+    <apparelMoney>
+      <min>180</min>
+      <max>350</max>
+    </apparelMoney>
+    <apparelTags>
+      <li>Tribal</li>
+    </apparelTags>
+    <weaponMoney>
+      <min>60</min>
+      <max>250</max>
+    </weaponMoney>
+    <weaponTags>
+      <li>NeolithicMeleeBasic</li>
+    </weaponTags>
+  </PawnKindDef>
+</Defs>

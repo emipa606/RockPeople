@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <PawnKindDef ParentName="TribalBase">
+    <defName>R_GraniteWarrior</defName>
+    <label>granite juggernaut</label>
+    <race>Alien_Rock_Granite</race>
+    <backstoryCategories>
+      <li>Tribal</li>
+    </backstoryCategories>
+    <combatPower>200</combatPower>
+    <maxGenerationAge>70</maxGenerationAge>
+    <gearHealthRange>
+      <min>3</min>
+      <max>5</max>
+    </gearHealthRange>
+    <apparelMoney>
+      <min>1000</min>
+      <max>3000</max>
+    </apparelMoney>
+    <apparelTags>
+      <li>Tribal</li>
+    </apparelTags>
+    <weaponMoney>
+      <min>1000</min>
+      <max>3000</max>
+    </weaponMoney>
+    <weaponTags>
+      <li>MedievalMeleeAdvanced</li>
+      <li>MedievalMeleeDecent</li>
+    </weaponTags>
+  </PawnKindDef>
+</Defs>
