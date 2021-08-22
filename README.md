@@ -20,12 +20,12 @@ Adds rock people into the game. Adds one type of faction, which contains all typ
      - Social
      - Likely to have pretty/beautiful trait
      - Likely to have nudist trait
-     * They&apos;re like Greek sculptures.
+     * They're like Greek sculptures.
 
 - Granite
      - Slow work speed
      - Fast and strong in combat
-     * Strongest stone material in-game, so they&apos;re the toughest 
+     * Strongest stone material in-game, so they're the toughest 
 
 - Limestone
      - Good at farming
@@ -34,15 +34,15 @@ Adds rock people into the game. Adds one type of faction, which contains all typ
 
 - Slate
      - Good at shooting
-     - Immune to &quot;soaking wet&quot; mood debuff
+     - Immune to "soaking wet" mood debuff
      - Learns slightly faster
-     * Slate is used in roofing and has been used for writing. They&apos;re good at shooting to give them a niche.
+     * Slate is used in roofing and has been used for writing. They're good at shooting to give them a niche.
 
 - Sandstone
      - Weaker than the rest
      - Closest to a human
      - Fast
-     * Sandstone is made of many finer pieces, allowing for more fluid movement. However, this also means they&apos;re more fragile
+     * Sandstone is made of many finer pieces, allowing for more fluid movement. However, this also means they're more fragile
 
 
 Thanks all for the suggestions.
@@ -57,6 +57,7 @@ Thanks all for the suggestions.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
