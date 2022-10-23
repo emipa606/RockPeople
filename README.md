@@ -1,16 +1,16 @@
 # RockPeople
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Filthy Peasants mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2162223835
 
 - Faction is no longer permanent enemy of the empire
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 Adds rock people into the game. Adds one type of faction, which contains all types of new people.
 
@@ -47,7 +47,7 @@ Adds rock people into the game. Adds one type of faction, which contains all typ
 
 Thanks all for the suggestions.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 

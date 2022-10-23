@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef ParentName="FactionBase">
+    <defName>RockTribe</defName>
+    <label>Rock man tribe</label>
+    <description>A tribe of Rock people</description>
+    <basicMemberKind>R_SandstoneArcher</basicMemberKind>
+    <pawnsPlural>Rock People</pawnsPlural>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
+    <settlementGenerationWeight>.5</settlementGenerationWeight>
+    <melaninRange>0.0~0.2</melaninRange>
+    <canMakeRandomly>true</canMakeRandomly>
+    <raidCommonalityFromPointsCurve>
+      <points>
+        <li>(40, 3)</li>
+        <li>(400, 1)</li>
+      </points>
+    </raidCommonalityFromPointsCurve>
+    <canStageAttacks>false</canStageAttacks>
+    <factionIconPath>Icon/rocktown</factionIconPath>
+    <colorSpectrum>
+      <li>(0.57,.57,.57))</li>
+      <li>(0.54,.33,.15)</li>
+    </colorSpectrum>
+    <mustStartOneEnemy>true</mustStartOneEnemy>
+    <factionNameMaker>NamerFactionTribal</factionNameMaker>
+    <settlementNameMaker>NamerSettlementTribal</settlementNameMaker>
+    <techLevel>Neolithic</techLevel>
+    <backstoryCategories>
+      <li>Tribal</li>
+    </backstoryCategories>
+    <leaderTitle>rockman chief</leaderTitle>
+    <allowedCultures>
+      <li>Corunan</li>
+    </allowedCultures>
+    <caravanTraderKinds>
+      <li>Caravan_Neolithic_BulkGoods</li>
+      <li>Caravan_Neolithic_WarMerchant</li>
+      <li>Caravan_Neolithic_Slaver</li>
+      <li>Caravan_Neolithic_ShamanMerchant</li>
+    </caravanTraderKinds>
+    <visitorTraderKinds>
+      <li>Visitor_Rock_Standard</li>
+    </visitorTraderKinds>
+    <baseTraderKinds>
+      <li>Base_Neolithic_Standard</li>
+    </baseTraderKinds>
+    <allowedArrivalTemperatureRange>
+      <min>-40</min>
+      <max>45</max>
+    </allowedArrivalTemperatureRange>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70, 50)</li>
+        <li>(800, 100)</li>
+        <li>(1300, 150)</li>
+        <li>(100000, 10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <pawnGroupMakers>
+      <li>
+        <kindDef>Combat</kindDef>
+        <options>
+          <R_LimestoneMelee>300</R_LimestoneMelee>
+          <R_MarbleeMelee>75</R_MarbleeMelee>
+          <R_MarbleArcher>75</R_MarbleArcher>
+          <R_SlateHeavyArcher>75</R_SlateHeavyArcher>
+          <R_SandstoneArcher>300</R_SandstoneArcher>
+          <R_SandstoneMelee>300</R_SandstoneMelee>
+          <R_GraniteWarrior>25</R_GraniteWarrior>
+          <R_RockChief>250</R_RockChief>
+        </options>
+      </li>
+      <li>
+        <kindDef>Trader</kindDef>
+        <traders>
+          <R_MarbleTrader>1</R_MarbleTrader>
+        </traders>
+        <carriers>
+          <Muffalo>6</Muffalo>
+          <Dromedary>5</Dromedary>
+          <Alpaca>2.5</Alpaca>
+          <Elephant>2</Elephant>
+        </carriers>
+        <guards>
+          <R_MarbleeMelee>50</R_MarbleeMelee>
+          <R_MarbleArcher>50</R_MarbleArcher>
+          <R_LimestoneMelee>100</R_LimestoneMelee>
+          <R_SandstoneMelee>100</R_SandstoneMelee>
+        </guards>
+      </li>
+      <li>
+        <kindDef>Settlement</kindDef>
+        <options>
+          <R_LimestoneMelee>300</R_LimestoneMelee>
+          <R_MarbleeMelee>75</R_MarbleeMelee>
+          <R_MarbleArcher>75</R_MarbleArcher>
+          <R_SlateHeavyArcher>50</R_SlateHeavyArcher>
+          <R_SandstoneArcher>300</R_SandstoneArcher>
+          <R_SandstoneMelee>300</R_SandstoneMelee>
+          <R_GraniteWarrior>25</R_GraniteWarrior>
+          <R_RockChief>250</R_RockChief>
+        </options>
+      </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <R_LimestoneMelee>100</R_LimestoneMelee>
+          <R_MarbleeMelee>75</R_MarbleeMelee>
+          <R_MarbleArcher>75</R_MarbleArcher>
+          <R_SandstoneArcher>300</R_SandstoneArcher>
+          <R_SandstoneMelee>300</R_SandstoneMelee>
+          <R_RockChief>250</R_RockChief>
+        </options>
+      </li>
+    </pawnGroupMakers>
+    <settlementTexturePath>World/WorldObjects/TribalSettlement</settlementTexturePath>
+  </FactionDef>
+</Defs>
