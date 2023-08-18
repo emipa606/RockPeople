@@ -1,5 +1,8 @@
 # Changelog for RockPeople
 
+1.4.2 - Added some body-tags to support special apparel like blindfolds
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 
